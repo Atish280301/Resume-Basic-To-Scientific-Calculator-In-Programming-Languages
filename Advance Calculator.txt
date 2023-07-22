@@ -1,0 +1,18 @@
+Advance Calculator: Web development
+--------------------
+01. Integer Arithmetic Calculation 
+02. Floating Arithmetic Calculation
+03. Percentage(%)
+04. Power Function(A^n)
+05. Root Function(n root A)
+06. Factorial Of A Number(A!)
+07. nCr & nPr
+08. Trigonometry Calculation
+09. logarithm(log, ln)
+10. exp
+11. inverse
+12. decimal to binary octal hexa decimal
+13. Matrix Arithmetic Calculation
+14. Quadractic Equation
+15. Geometry Calculation
+16. Co-Ordinate Geometry
